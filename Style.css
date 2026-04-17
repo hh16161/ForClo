@@ -38,3 +38,9 @@ body{
 .navbar li a:hover{
   background-color: #000000;
 }
+
+/* changes text */
+
+/* h1, h2, h3, h4, h5, h6, p, ul, ol, li{ */
+  /* font-family: "lora" */
+/* } */
