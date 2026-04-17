@@ -49,22 +49,3 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, li{
     "width" 100;
 }
 
-
-/* texxt type */
-
-h1,
-h4,
-h5,
-h6,
-p,
-ul,
-ol,
-li {
-    font-family: "Bricolage Grotesque", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: weight;
-    font-style: normal;
-    font-variation-settings:
-        "width" 100;
-    color: #345532;
-}
