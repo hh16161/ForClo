@@ -6,7 +6,7 @@ body{
 
 
 /* changes the navbar */
-.navbar{
+navbar{
   color: #000000;
   background-color: #fc8aa3;
   width: 100;
@@ -15,7 +15,7 @@ body{
 }
 
 /* more navbar */
-.navbar ul{
+navbar ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -24,7 +24,7 @@ body{
 }
 
 /* more changes */
-.navbar li a {
+navbar li a {
   display: block;
   width: 60;
   float: left;
@@ -35,6 +35,6 @@ body{
 }
 
 /* more nav changes  */
-.navbar li a:hover{
+navbar li a:hover{
   background-color: #000000;
 }
